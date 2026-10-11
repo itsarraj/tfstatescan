@@ -12,6 +12,12 @@ file and tells you exactly which resource attributes hold real plaintext
 secret material — not just anything that looks scary, and not everything
 with the word "secret" in its name.
 
+## Installation
+
+```sh
+cargo install --path .
+```
+
 ## Usage
 
 ```bash
